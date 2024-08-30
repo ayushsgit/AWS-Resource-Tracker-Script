@@ -1,5 +1,6 @@
 # AWS-Resource-Tracker-Script
 
+```
 #!/bin/bash
 
 
@@ -32,3 +33,4 @@ aws lambda list-functions
 #list IAM Users
 echo "Print list of IAM Users"
 aws iam list-users
+```
